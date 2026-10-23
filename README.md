@@ -26,3 +26,7 @@ Visit http://localhost:3000.
 - Confirm metadata and chosen domain.
 
 No secrets or API credentials are required for this static site.
+
+## Deployment check
+
+This documentation-only update triggers a fresh Vercel build from the `main` branch.
